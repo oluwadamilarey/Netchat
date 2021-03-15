@@ -47,7 +47,10 @@ namespace Netchat
             }
 
             app.UseMvcWithDefaultRoute();
+            
             app.UseDeveloperExceptionPage();
+
+            app.UseStaticFiles();
 
             app.UseHttpsRedirection();
 
