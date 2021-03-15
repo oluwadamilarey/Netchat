@@ -15601,6 +15601,17 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "Netchat",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/mnt/c/Netchat/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/mnt/c/Netchat/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
