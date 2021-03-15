@@ -36,7 +36,6 @@
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.TagHelpers.input.cache
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.TagHelpers.output.cache
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.RazorCoreGenerate.cache
-/mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/Shared/_Layoust.cshtml.g.cs
 /mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
 /mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.RazorTargetAssemblyInfo.cache
@@ -47,3 +46,5 @@
 /mnt/c/Netchat/obj/Debug/net5.0/ref/Netchat.dll
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.pdb
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.genruntimeconfig.cache
+/mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
