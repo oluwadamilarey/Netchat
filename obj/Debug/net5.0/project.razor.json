@@ -15603,6 +15603,11 @@
   "RootNamespace": "Netchat",
   "Documents": [
     {
+      "FilePath": "/mnt/c/Netchat/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/mnt/c/Netchat/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15610,6 +15615,11 @@
     {
       "FilePath": "/mnt/c/Netchat/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/mnt/c/Netchat/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],

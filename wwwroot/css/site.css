@@ -1,3 +1,32 @@
-h1{
-    color: red;
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    flex-direction: column;
 }
+
+.navbar{
+    background-color: black;
+    height: 50px;
+}
+
+.main{
+    background-color: red;
+    flex-grow: 1;
+    display: flex;
+    display: flex;
+    flex-direction: row;
+}
+
+.side-menu{
+    background-color: #443544;
+    width: 100px;
+}
+
+.chat{
+    background-color: #eee;
+    flex-grow: 1;
+}
+
+
