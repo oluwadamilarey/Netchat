@@ -48,3 +48,4 @@
 /mnt/c/Netchat/obj/Debug/net5.0/Netchat.genruntimeconfig.cache
 /mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
 /mnt/c/Netchat/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/mnt/c/Netchat/obj/Debug/net5.0/Razor/_ViewStart.cshtml.g.cs
