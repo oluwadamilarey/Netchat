@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Netchat.Database;
 
 namespace Netchat
 {
@@ -28,6 +29,9 @@ namespace Netchat
         {
             services.AddMvc( options => options.EnableEndpointRouting = false);
             services.AddControllers();
+
+            services.AddDbContext<AppDbContext>();
+            services.
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Netchat", Version = "v1" });
